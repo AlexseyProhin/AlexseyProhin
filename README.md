@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexsey 
-- 👀 I’m interested in JavaSript 
-- 🌱 I’m currently learning automated testing for javascript
+- 👀 I’m interested in JavaScript 
+- 🌱 I’m currently learning automated testing for JavaScript and Java
 - 💞️ I’m looking to collaborate on a project that will have a ready-made framework and a mentor
 - 📫 How to reach me alexsey.prohin@yandex.ru
 telegram @Firstname_Last
