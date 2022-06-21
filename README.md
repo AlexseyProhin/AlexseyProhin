@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Alexsey QA autimation Java a
-- 🌱 I’m currently learning automated testing for JavaScript and Java
-- 💞️ I’m looking to collaborate on a project that will have a ready-made framework and a mentor
+- 👋 Hi, I’m Alexsey junior Java Developer
 - 📫 How to reach me alexsey.prohin@yandex.ru
 telegram @Firstname_Last
 
