@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Alexsey junior Java Developer
+- 👋 Hi, I’m Alexsey 
+JS chrome extensions,Next.js,React develop and Java UI tests
 - 📫 How to reach me alexsey.prohin@yandex.ru
 telegram @Firstname_Last
 
