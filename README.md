@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Alexsey 
-JS and Java UI tests
+- 👋 Hi, I’m Alexsey QA
+JS and Java  
 - 📫 How to reach me alexsey.prohin@yandex.ru
 telegram @Firstname_Last
 
