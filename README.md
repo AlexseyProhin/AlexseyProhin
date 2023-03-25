@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Alexsey QA
-JS and Java  
+- 👋 HSoftware Development Engineer in Test
 - 📫 How to reach me alexsey.prohin@yandex.ru
 telegram @Firstname_Last
 
