@@ -1,4 +1,4 @@
-- 👋 Software Development Engineer in Test
+- 👋 Software Development Engineer in Test Java
 - 📫 How to reach me alexsey.prohin@yandex.ru
 telegram @Firstname_Last
 
